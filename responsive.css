@@ -1,0 +1,53 @@
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+  .navbar {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .hero {
+    width: 90%;
+    justify-content: center;
+    display: flex;
+  }
+  .hero-items {
+    flex-direction: row;
+  }
+  .customer {
+    display: flex;
+  }
+  .customer-image {
+    width: 52%;
+    margin-top: 3rem;
+    max-height: 60vh;
+  }
+  .customer-text {
+    padding: 2rem;
+    width: 48%;
+    height: 60vh;
+    margin-top: 3rem;
+  }
+  .gallery-image img {
+    width: 25%;
+  }
+  .customer-service {
+    flex-direction: row-reverse;
+    width: 100%;
+  }
+  .customer-service__image {
+    height: 25rem;
+    width: 52%;
+  }
+  .customer-service__text {
+    width: 48%;
+    margin-top: 2rem;
+    height: 25rem;
+  }
+  .room__items {
+    flex-direction: row;
+  }
+  .personel__items {
+    flex-direction: row;
+  }
+}
