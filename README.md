@@ -15,10 +15,8 @@ A responsive hotel website built with **HTML** and **CSS**.
 
 ## 📌 Project Links
 
-> Add your GitHub and live website links here.
-
 - 🔗 **GitHub Repository:** [Deluxe Hotel Website](https://github.com/muratEfeErgin/Hotel--Site)
-- 🌐 **Live Demo:** Add your GitHub Pages link here
+- 🌐 **Live Demo:** https://muratefeergin.github.io/Hotel--Site/
 
 ---
 
@@ -53,32 +51,32 @@ The project is mostly completed.
 
 ### Current Sections
 
-| Section | Status |
-| --- | --- |
-| Home Page | ✅ Completed |
-| Blog Page | ✅ Completed |
-| Fixed Navbar | ✅ Completed |
-| Hero Section | ✅ Completed |
-| Services Section | ✅ Completed |
-| Gallery Section | ✅ Completed |
-| Rooms Section | ✅ Completed |
+| Section                  | Status       |
+| ------------------------ | ------------ |
+| Home Page                | ✅ Completed |
+| Blog Page                | ✅ Completed |
+| Fixed Navbar             | ✅ Completed |
+| Hero Section             | ✅ Completed |
+| Services Section         | ✅ Completed |
+| Gallery Section          | ✅ Completed |
+| Rooms Section            | ✅ Completed |
 | Team / Personnel Section | ✅ Completed |
-| Contact Section | ✅ Completed |
-| Footer | ✅ Completed |
-| Responsive Design | ✅ Completed |
+| Contact Section          | ✅ Completed |
+| Footer                   | ✅ Completed |
+| Responsive Design        | ✅ Completed |
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology | Purpose |
-| --- | --- |
-| HTML5 | Page structure |
-| CSS3 | Styling |
-| Flexbox | Layout system |
+| Technology    | Purpose           |
+| ------------- | ----------------- |
+| HTML5         | Page structure    |
+| CSS3          | Styling           |
+| Flexbox       | Layout system     |
 | Media Queries | Responsive design |
-| Font Awesome | Icons |
-| Google Fonts | Typography |
+| Font Awesome  | Icons             |
+| Google Fonts  | Typography        |
 
 ---
 
@@ -198,10 +196,8 @@ They may be added in future projects after improving the core HTML and CSS skill
 
 ## 📌 Proje Linkleri
 
-> GitHub ve canlı site linklerini buraya ekleyebilirsin.
-
 - 🔗 **GitHub Repository:** [Deluxe Hotel Website](https://github.com/muratEfeErgin/Hotel--Site)
-- 🌐 **Canlı Demo:** GitHub Pages linkini buraya ekle
+- 🌐 **Canlı Demo:** https://muratefeergin.github.io/Hotel--Site/
 
 ---
 
@@ -236,32 +232,32 @@ Proje büyük ölçüde tamamlanmıştır.
 
 ### Mevcut Bölümler
 
-| Bölüm | Durum |
-| --- | --- |
-| Ana Sayfa | ✅ Tamamlandı |
-| Blog Sayfası | ✅ Tamamlandı |
-| Sabit Navbar | ✅ Tamamlandı |
-| Hero Alanı | ✅ Tamamlandı |
-| Hizmetler Bölümü | ✅ Tamamlandı |
-| Galeri Bölümü | ✅ Tamamlandı |
-| Odalar Bölümü | ✅ Tamamlandı |
+| Bölüm                  | Durum         |
+| ---------------------- | ------------- |
+| Ana Sayfa              | ✅ Tamamlandı |
+| Blog Sayfası           | ✅ Tamamlandı |
+| Sabit Navbar           | ✅ Tamamlandı |
+| Hero Alanı             | ✅ Tamamlandı |
+| Hizmetler Bölümü       | ✅ Tamamlandı |
+| Galeri Bölümü          | ✅ Tamamlandı |
+| Odalar Bölümü          | ✅ Tamamlandı |
 | Personel / Ekip Bölümü | ✅ Tamamlandı |
-| İletişim Bölümü | ✅ Tamamlandı |
-| Footer | ✅ Tamamlandı |
-| Responsive Tasarım | ✅ Tamamlandı |
+| İletişim Bölümü        | ✅ Tamamlandı |
+| Footer                 | ✅ Tamamlandı |
+| Responsive Tasarım     | ✅ Tamamlandı |
 
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
 
-| Teknoloji | Kullanım Amacı |
-| --- | --- |
-| HTML5 | Sayfa yapısı |
-| CSS3 | Tasarım |
-| Flexbox | Sayfa düzeni |
+| Teknoloji     | Kullanım Amacı     |
+| ------------- | ------------------ |
+| HTML5         | Sayfa yapısı       |
+| CSS3          | Tasarım            |
+| Flexbox       | Sayfa düzeni       |
 | Media Queries | Responsive tasarım |
-| Font Awesome | İkonlar |
-| Google Fonts | Yazı tipi |
+| Font Awesome  | İkonlar            |
+| Google Fonts  | Yazı tipi          |
 
 ---
 
