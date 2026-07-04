@@ -22,9 +22,7 @@ A responsive hotel website built with **HTML** and **CSS**.
 
 ## 📸 Preview
 
-> You can replace this image with a screenshot of your website later.
-
-![Deluxe Hotel Preview](img/bg-1.jpeg)
+![Deluxe Hotel Preview](img/screenshot.png)
 
 ---
 
@@ -203,9 +201,7 @@ They may be added in future projects after improving the core HTML and CSS skill
 
 ## 📸 Ön İzleme
 
-> Daha sonra buraya sitenin ekran görüntüsünü ekleyebilirsin.
-
-![Deluxe Hotel Ön İzleme](img/bg-1.jpeg)
+![Deluxe Hotel Ön İzleme](img/screenshot.png)
 
 ---
 

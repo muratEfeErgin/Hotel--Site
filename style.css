@@ -71,7 +71,7 @@ button {
   padding-top: 1rem;
 }
 .header-nav__list a:hover {
-  text-decoration: underline;
+  border-bottom: 2px solid var(--warning);
 }
 .header-content__image {
   background-image:
