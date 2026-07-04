@@ -65,4 +65,17 @@
     justify-content: center;
     max-height: 55vh;
   }
+  .blog-card {
+    flex-direction: row;
+  }
+  .blog-card img {
+    object-position: center;
+    width: 40%;
+    height: 60vh;
+  }
+  .blog-card__text {
+    width: 60%;
+    min-height: 60vh;
+    justify-content: center;
+  }
 }
