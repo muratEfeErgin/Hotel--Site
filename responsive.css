@@ -7,12 +7,13 @@
     justify-content: space-between;
   }
   .hero {
-    width: 90%;
     justify-content: center;
     display: flex;
   }
   .hero-items {
+    width: 90%;
     flex-direction: row;
+    justify-content: center;
   }
   .customer {
     display: flex;
@@ -49,5 +50,19 @@
   }
   .personel__items {
     flex-direction: row;
+    justify-content: center;
+  }
+  .contact {
+    display: flex;
+    margin-top: 3rem;
+  }
+  .contact__image {
+    width: 52%;
+    max-height: 55vh;
+  }
+  .contact__input {
+    width: 48%;
+    justify-content: center;
+    max-height: 55vh;
   }
 }
